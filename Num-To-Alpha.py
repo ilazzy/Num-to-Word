@@ -1,5 +1,6 @@
 import tkinter as tk
 import inflect
+#inflect used for convert number to word
 
 frame = tk.Tk()
 frame.title("Title.exe")
